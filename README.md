@@ -8,8 +8,8 @@
 **Periodo de realización:** 09 al 15 de noviembre
 **Duración:** 2 horas
 
-**Estudiante:** _Nombre y Apellido_
-**Correo del aula virtual:** _correo@ejemplo.com_
+**Estudiante:** _Carlos Robles_
+**Correo del aula virtual:** _carlosdanielrobles21@gmail.com_
 
 ---
 
