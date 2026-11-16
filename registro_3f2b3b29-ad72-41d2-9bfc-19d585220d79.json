@@ -1,0 +1,17 @@
+{
+    "nombre": "Carlos",
+    "apellido": "Robles",
+    "email": "carlosdanielrobles21@gmail.com",
+    "token": "3f2b3b29-ad72-41d2-9bfc-19d585220d79",
+    "fecha_utc": "2026-11-16T00:56:02.605149+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "a5211cbd4c02",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "87c9d2be52aa0fe4e1a83ca2d610c462c446ad826d9aaeef012b2a5e30b20308"
+}
